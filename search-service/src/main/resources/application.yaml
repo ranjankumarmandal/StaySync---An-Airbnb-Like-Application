@@ -1,3 +1,16 @@
+server:
+  port: 8088
+
 spring:
   application:
     name: search-service
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/search_db
+    username: postgres
+    password: your_password
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
