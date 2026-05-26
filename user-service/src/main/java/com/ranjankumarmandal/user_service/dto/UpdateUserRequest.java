@@ -1,4 +1,4 @@
-package com.ranjankumarmandal.auth_service.dto;
+package com.ranjankumarmandal.user_service.dto;
 
 import lombok.Getter;
 import lombok.Setter;

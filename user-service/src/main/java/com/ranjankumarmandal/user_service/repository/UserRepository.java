@@ -1,4 +1,4 @@
-package com.ranjankumarmandal.auth_service.repository;
+package com.ranjankumarmandal.user_service.repository;
 
 import com.airbnbclone.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;

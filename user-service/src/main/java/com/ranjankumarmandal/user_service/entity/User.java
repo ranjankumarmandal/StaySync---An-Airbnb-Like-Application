@@ -1,4 +1,4 @@
-package com.ranjankumarmandal.auth_service.entity;
+package com.ranjankumarmandal.user_service.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
